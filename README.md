@@ -154,6 +154,3 @@ Cada compañero debe seguir estos pasos en su laptop:
 6. Escribir su usuario (ejemplo: `usuario1`) y su contraseña (`pass1234`). Al entrar ya tendrán acceso total gracias al privilegio 15.
 
 
-
-
-https://drive.google.com/file/d/1RKQwf16525W54x44stwgFvk1Mm-hrbli/view?usp=sharing, https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221T8w554NBqb4xNXac-rdRTUG8aDeshMWl%22%5D,%22action%22:%22open%22,%22userId%22:%22103257518062354094375%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing, https://drive.google.com/file/d/1VuwnB4RZRc6jmZ5iPHoq3ZL01Pm2-bb9/view?usp=sharing, https://drive.google.com/file/d/1Ygiz10npGaegw2wXXqq166K8LXUXxvh-/view?usp=sharing, https://drive.google.com/file/d/1_WtX065dkX_Nnr3vdUkz4ZJFNoM-7wNK/view?usp=sharing, https://drive.google.com/file/d/1lo1aSCl1aiepqcSzNkUzgbIdzu285rM5/view?usp=sharing
